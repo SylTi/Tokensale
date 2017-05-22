@@ -1,6 +1,6 @@
 # Tokensale Best Practices for Founders
 
-<sub>Shoutout to Jorge from Aragon, Jack from GameCredits and Auryn from First Blood for sharing their proactive measures.</sub>
+<sub>Shoutout to Jorge from Aragon, Jack from GameCredits, Auryn from First Blood and Chris the disillusioned lawyer for sharing their proactive measures.</sub>
 
 Over the past months, scammers have gotten more sophisticated. Take the proper steps to protect your website, Slack, Reddit and Twitter communication channels against phishers.
 
@@ -10,6 +10,8 @@ Over the past months, scammers have gotten more sophisticated. Take the proper s
 * Set a constant reminder for your Slackbot that there is no “VIP group” and the team will never ask for bitcoin/ether or set up pump groups (see below for GameCrecdits example): https://get.slack.help/hc/en-us/articles/208423427-Set-a-reminder
 * In Slack settings, ensure that email addresses are not displayed.
 * Purchase similar sounding domains and create similar twitter handles if possible. Keep an eye out for any fakes.
+* Identify the sale start time (or block number) and provide the smart contract code well prior to the sale.
+* Provide the address to send tx to at least 12 hours prior to the sale. This prevents website ddos and also minimizes any scam addresses being posted elsewhere.
 
 During the tokensale, the Slack will be a major target as phishers will attempt to trick participants to send money to their own address. Before it starts you should:
 * Send out an email a day before the ICO clarifying the details of the tokensale and to be aware of phishing attempts.
