@@ -16,10 +16,10 @@ Over the past months, scammers have gotten more sophisticated. Take the proper s
 During the tokensale, the Slack will be a major target as phishers will attempt to trick participants to send money to their own address. Before it starts you should:
 * Send out an email a day before the ICO clarifying the details of the tokensale and to be aware of phishing attempts.
 * Aim to have someone from the team online 24/7 during the token sale.
-* Archive all channels except for two. One for announcements where only admins can post, and another open channel where anyone can ask questions. This way, you only have to monitor one channel for phishers.
-* Provide your cellphone number to trusted members of the Slack to contact you if scammers appear
-* Go to Team settings in the permissions tab and allow only admins to @channel or @here, pin posts, create custom loading messages, enable Slackbot responses and add apps/custom integrations
-* Set up the Aragon bot to catch any fake bitcoin/ethereum addresses (see below)
+* Archive all channels except for one for announcements where only admins can post. Designate admins as support staff for questions and announce that no admin will ever initiate a conversation.
+* Provide your cellphone number to trusted members of the Slack to contact you if scammers appear.
+* Go to Team settings in the permissions tab and allow only admins to @channel or @here, pin posts, create custom loading messages, enable Slackbot responses and add apps/custom integrations.
+* Set up the Aragon bot to catch any fake bitcoin/ethereum addresses (see below).
 
 
 ## Helpful examples
