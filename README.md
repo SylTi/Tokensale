@@ -22,15 +22,18 @@ During the tokensale, the Slack will be a major target as phishers will attempt 
 * Set up the Aragon bot to catch any fake bitcoin/ethereum addresses (see below).
 
 
+
 ## Helpful examples
 
+### Aragon's Anti-Spam Bot 
 Aragon has open sourced a bot that scans for token addresses: https://github.com/aragon/slack-bot
 
 Source from CFPro: https://github.com/CFPro/slack-bot
 <img src="https://i.imgur.com/sY6Ra7B.png" width="80%">
 
-GameCredit’s Slackbot reminder
+### GameCredit’s Slackbot reminder
 <img src="https://i.imgur.com/4hvVNau.png" width="100%">
+
 
 
 
