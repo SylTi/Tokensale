@@ -25,6 +25,7 @@ During the tokensale, the Slack will be a major target as phishers will attempt 
 ## Helpful examples
 
 Aragon has open sourced a bot that scans for token addresses: https://github.com/aragon/slack-bot
+
 Source from CFPro: https://github.com/CFPro/slack-bot
 <img src="https://i.imgur.com/sY6Ra7B.png" width="80%">
 
