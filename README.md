@@ -1,6 +1,6 @@
 # Tokensale Best Practices for Founders
 
-<sub>Shoutout to Jorge from Aragon, Jack from GameCredits, Auryn from First Blood and Chris the disillusioned lawyer for sharing their proactive measures.</sub>
+<sub>Shoutout to Jorge from Aragon, Jack from GameCredits, Auryn from First Blood and Chris the disillusioned lawyer for sharing their proactive measures. Credit to CFPro for creating the anti-spam [SlackBot](https://github.com/CFPro/slack-bot)</sub>
 
 Over the past months, scammers have gotten more sophisticated. Take the proper steps to protect your website, Slack, Reddit and Twitter communication channels against phishers.
 
@@ -25,6 +25,7 @@ During the tokensale, the Slack will be a major target as phishers will attempt 
 ## Helpful examples
 
 Aragon has open sourced a bot that scans for token addresses: https://github.com/aragon/slack-bot
+Source from CFPro: https://github.com/CFPro/slack-bot
 <img src="https://i.imgur.com/sY6Ra7B.png" width="80%">
 
 GameCredit’s Slackbot reminder
