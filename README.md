@@ -35,3 +35,4 @@ Source from CFPro: https://github.com/CFPro/slack-bot
 ### GameCredit’s Slackbot reminder
 <img src="https://i.imgur.com/4hvVNau.png" width="100%">
 
+## [See Recent Scams](https://github.com/Scanate/ScamList/)
