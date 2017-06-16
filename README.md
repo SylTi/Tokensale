@@ -1,5 +1,7 @@
 # Tokensale Best Practices for Founders
 
+## Add your tokensale to the [Ultimate ICO Calendar](https://github.com/Scanate/UltimateICOCalendar)
+
 <sub>Shoutout to Jorge from Aragon, Jack from GameCredits, Auryn from First Blood and Chris the disillusioned lawyer for sharing their proactive measures. Credit to CFPro for creating the anti-spam [SlackBot](https://github.com/CFPro/slack-bot).</sub>
 
 Over the past months, scammers have gotten more sophisticated. Take the proper steps to protect your website, Slack, Reddit and Twitter communication channels against phishers.
