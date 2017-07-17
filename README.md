@@ -7,7 +7,7 @@
 Over the past months, scammers have gotten more sophisticated. Take the proper steps to protect your website, Slack, Reddit and Twitter communication channels against phishers.
 
 * Purchase an ENS domain (https://ens.domains/) and utilize it as your crowdsale address.
-* Have one source of truth that you point to (likely your website) and mention this in all of your material.
+* Have one source of truth that you point to (likely your website) and mention this in all of your material. Note that scammers have been using various methods to change the ethereum address on websites, so keep a close eye on it!
 * Keep an eye out for people trying to impersonate members of the team on Slack, twitter, facebook, or any other social networks. They will try to **direct message** unsuspecting participants into giving them money or joining a pump group or VIP group.
 * Respond rapidly to reports of phishing by warning the community and banning/blocking the offending account(s).
 * Set a constant reminder for your Slackbot that there is no “VIP group” and the team will never ask for bitcoin/ether or set up pump groups (see below for GameCrecdits example): https://get.slack.help/hc/en-us/articles/208423427-Set-a-reminder
