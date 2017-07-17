@@ -2,8 +2,11 @@
 
 <sub>Shoutout to Jorge from Aragon, Jack from GameCredits, Auryn from First Blood and Chris the disillusioned lawyer for sharing their proactive measures. Credit to CFPro for creating the anti-spam [SlackBot](https://github.com/CFPro/slack-bot).</sub>
 
+**It is recommended to use Discord or Rocket.chat over Slack for the purpose of the crowdsale. There is no way to stop Slack Direct Messages or reminders which notify everyone and come from the Slackbot (making it seem official)**
+
 Over the past months, scammers have gotten more sophisticated. Take the proper steps to protect your website, Slack, Reddit and Twitter communication channels against phishers.
 
+* Purchase an ENS domain (https://ens.domains/) and utilize it as your crowdsale address.
 * Have one source of truth that you point to (likely your website) and mention this in all of your material.
 * Keep an eye out for people trying to impersonate members of the team on Slack, twitter, facebook, or any other social networks. They will try to **direct message** unsuspecting participants into giving them money or joining a pump group or VIP group.
 * Respond rapidly to reports of phishing by warning the community and banning/blocking the offending account(s).
